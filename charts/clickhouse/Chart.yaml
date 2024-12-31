@@ -9,8 +9,8 @@ keywords:
 - olap
 - database
 maintainers:
-- name: sentry-kubernetes
+- name: madchap
 name: clickhouse
 sources:
-- https://github.com/sentry-kubernetes/charts
+- https://lightframetech.github.io/helm-charts
 version: 3.13.0
